@@ -1,6 +1,6 @@
 # Image Captioning and Tagging with Google Gemini
 <p align="center">
-  <img src='https://github.com//ganesh-arige/ImageTagger/assets/103712713/f4024d1a-0573-4859-9f16-81c710742bd8' alt="Image" width="300" height="300">
+  <img src='https://github.com//ganesharige/ImageTagger/assets/103712713/f4024d1a-0573-4859-9f16-81c710742bd8' alt="Image" width="300" height="300">
 </p>
 
 
@@ -20,7 +20,7 @@ Explore the app [here](https://image-caption-tagger.streamlit.app/).
 ## Usage
 - Clone the repository:
   ```bash
-  git clone https://github.com/Sgvkamalakar/ImageTagger
+  git clone https://github.com/ganesharige/ImageTagger
 - Install dependencies:
   ```bash
    pip install -r requirements.txt
@@ -45,7 +45,7 @@ This app aims to provide a user-friendly platform harnessing the capabilities of
 
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/ganesh-arige
+[LinkedIn](https://www.linkedin.com/in/ganesh-arige)
 
 
 
