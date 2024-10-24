@@ -1,6 +1,6 @@
 # Image Captioning and Tagging with Google Gemini
 <p align="center">
-  <img src='https://github.com/Sgvkamalakar/ImageTagger/assets/103712713/f4024d1a-0573-4859-9f16-81c710742bd8' alt="Image" width="300" height="300">
+  <img src='https://github.com//ganesh-arige/ImageTagger/assets/103712713/f4024d1a-0573-4859-9f16-81c710742bd8' alt="Image" width="300" height="300">
 </p>
 
 
@@ -42,15 +42,11 @@ Explore the app [here](https://image-caption-tagger.streamlit.app/).
 
 This app aims to provide a user-friendly platform harnessing the capabilities of Google Gemini, making image understanding and interpretation accessible to everyone.
 
-## Contributions
-Contributions are welcome! Fork the repository and create a pull request.
-
-## References
-CodeSmith harnesses the power of [Google's Gemini](https://cloud.google.com/gemini), a cutting-edge AI model, to achieve efficient code translation and generation across diverse programming languages. Gemini's robust functionalities empower CodeSmith with seamless contextual understanding, facilitating the delivery of precise and accurate results in code translation and generation processes.
 
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sgvkamalakar)
+[LinkedIn](https://www.linkedin.com/in/ganesh-arige
+
 
 
 
